@@ -1,22 +1,15 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+I also talked to several team members about how to divide up thework for designing the website.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+I plan on working with my team member Andrew to make a wireframe for the website and begin work on the website itself.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
 
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+The only thing that is slowing me down is my lack of experience with web development which is to be expected becuase I am doing this project to gain full-stack experience
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.

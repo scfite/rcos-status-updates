@@ -11,5 +11,5 @@ I do plan on learning more HTML and CSS becauase it was somewhat interesting. Wh
 
 ## Notes
 
-I felt that this semesters pacing was off for me because I was so intimidated at the beginning that I was afraid to push any code that wasn't perfect, but I am glad that by the end I became more comfortable with learning HTML on a public project like this.
+I felt that this semesters pacing was off for me because I was so intimidated at the beginning that I was afraid to push any code that wasn't perfect, but I am glad that by the end I became more comfortable with learning HTML on a public project like this. I also found that I liked working with others more on front end than I do backend. I think that in the future I need to work more closely with someone so I can pick up on things quicker and get guidance on my decisions.
 
